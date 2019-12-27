@@ -1,0 +1,19 @@
+{
+  "name": "ajax-as-promise",
+  "version": "1.0.0",
+  "description": "Simple Ajax Requests",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pminiggio/ajax-as-promise.git"
+  },
+  "author": "Pierre MINIGGIO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pminiggio/ajax-as-promise/issues"
+  },
+  "homepage": "https://github.com/pminiggio/ajax-as-promise#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
