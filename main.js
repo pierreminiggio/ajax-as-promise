@@ -43,4 +43,8 @@ Ajax.callDataUrl = (elt, params = {}, dataType = 'json', isformData = false) => 
     return Ajax.get($(elt).data('url'), params, dataType, isformData)
 }
 
+Ajax.callDataUrlPost = (elt, params = {}, dataType = 'json', isformData = false) => {
+    return Ajax.post($(elt).data('url'), params, dataType, isformData)
+}
+
 module.exports = Ajax
