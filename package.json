@@ -1,5 +1,5 @@
 {
-  "name": "ajax-as-promise",
+  "name": "@pierreminiggio/ajax-as-promise",
   "version": "1.0.0",
   "description": "Simple Ajax Requests",
   "main": "main.js",
@@ -15,5 +15,9 @@
   "homepage": "https://github.com/pierreminiggio/ajax-as-promise#readme",
   "dependencies": {
     "jquery": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
