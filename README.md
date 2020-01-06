@@ -1,1 +1,4 @@
-Simple Ajax Requests
+Installation :
+```
+npm install pierreminiggio/ajax-as-promise
+```
